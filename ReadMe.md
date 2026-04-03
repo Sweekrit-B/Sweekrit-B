@@ -1,5 +1,43 @@
 # 💫 About Me:
-I'm currently DS spec. ML/AI major at UCSD, with minors in Math and Business Economics.<br><br>I have a strong foundation in backend engineering, applied AI systems, and cross-disciplinary research. I bring a unique blend of technical rigor and creative problem-solving to fast-paced environments, having led and contributed to mission-critical projects across healthcare, AI startups, and robotics. Whether architecting backend infrastructure or developing real-world ML solutions, I thrive in roles that demand adaptability, ownership, and cross-functional collaboration. I'm deeply motivated by building impactful systems and continuously seek opportunities to bridge complex technology with meaningful user outcomes.<br><br>My current roles: <br>🏥 Software Developer @ F3 Global<br>🦴 Data Science Intern @ UCSD School of Medicine, Urtecho Lab<br>🛰️ Lead Software Engineer @ Yonder Dynamics (University Rover Competition)<br><br>My previous roles:<br>🏫 Software Engineering Consultant @ Kaizen Academy<br>🤖 Project Management and Firmware Engineering Consultant @ Brain Corp<br>🦷 Software Engineer @ Doe (YC S25)<br>🦁 Backend Developer Intern @ Lion Street<br>🚵 Software Developer @ UCSD Health<br>💻 AI Systems Developer @ Voicebotics AI<br<br>🧬 Bioinformatics Intern @ UCSD School of Medicine, Rana Laboratory<br>📦 Project Manager and SWE Consultant @ KlonIT AI<br>📈 Data Science Consultant @ Out of the Blue<br>🏆 VP of Special Projects & Summer Director @ Fremont Debate Academy<br>📜 Research Intern @ Notre Dame Keough School of Global Affairs<br>🔬 Machine Learning-Drug Discovery Project Lead @ ASDRP<br>⚗️ Senior Student Researcher @ ASDRP Machine-Learning Drug Discovery Group<br>🖥️ AI Ambassador & Researcher @ Inspirit AI<br>🏫 Curriculum Development Intern @ TheOpenCode Foundation<br>🥋 Taekwondo Instructor @ Choi's Martial Arts<br><br>My projects:<br>🦠 Epidemiology Network Simulator @ Buildspace S5<br>🩺 Medical Aid & Pill Tracking Agentic AI Web App @ CalHacks AI 2025<br>💵 Hierarchal Club Finance Tracking App @ LA Hacks 2025<br>📄 Machine Learning Paper Recommender<br>✈️ Airline Customer Satisfaction Predictor @ Triton Consulting Group<br>🧫 Bioinformatics Algorithms @ Peking University Coursera MOOC<br>📖 To Do List Application @ Triton Software Engineering<br>📅 Android Calendar Application<br>☁️ Weather Prediction Algorithm @ Xylem Water Challenge<br>🐇 Pokédex Discord Bot
+I'm currently DS spec. ML/AI major at UCSD, with minors in Math and Business Economics.  
+
+I have a strong foundation in backend engineering, applied AI systems, and cross-disciplinary research. I bring a unique blend of technical rigor and creative problem-solving to fast-paced environments, having led and contributed to mission-critical projects across healthcare, AI startups, and robotics. Whether architecting backend infrastructure or developing real-world ML solutions, I thrive in roles that demand adaptability, ownership, and cross-functional collaboration. I'm deeply motivated by building impactful systems and continuously seek opportunities to bridge complex technology with meaningful user outcomes.  
+
+My current roles:  
+🏥 Software Developer @ F3 Global  
+🦴 Data Science Intern @ UCSD School of Medicine, Urtecho Lab  
+🛰️ Lead Software Engineer @ Yonder Dynamics (University Rover Competition)  
+
+My previous roles:  
+🏫 Software Engineering Consultant @ Kaizen Academy  
+🤖 Project Management and Firmware Engineering Consultant @ Brain Corp  
+🦷 Software Engineer @ Doe (YC S25)  
+🦁 Backend Developer Intern @ Lion Street  
+🚵 Software Developer @ UCSD Health  
+💻 AI Systems Developer @ Voicebotics AI  
+
+🧬 Bioinformatics Intern @ UCSD School of Medicine, Rana Laboratory  
+📦 Project Manager and SWE Consultant @ KlonIT AI  
+📈 Data Science Consultant @ Out of the Blue  
+🏆 VP of Special Projects & Summer Director @ Fremont Debate Academy  
+📜 Research Intern @ Notre Dame Keough School of Global Affairs  
+🔬 Machine Learning-Drug Discovery Project Lead @ ASDRP  
+⚗️ Senior Student Researcher @ ASDRP Machine-Learning Drug Discovery Group  
+🖥️ AI Ambassador & Researcher @ Inspirit AI  
+🏫 Curriculum Development Intern @ TheOpenCode Foundation  
+🥋 Taekwondo Instructor @ Choi's Martial Arts  
+
+My projects:  
+🦠 Epidemiology Network Simulator @ Buildspace S5  
+🩺 Medical Aid & Pill Tracking Agentic AI Web App @ CalHacks AI 2025  
+💵 Hierarchal Club Finance Tracking App @ LA Hacks 2025  
+📄 Machine Learning Paper Recommender  
+✈️ Airline Customer Satisfaction Predictor @ Triton Consulting Group  
+🧫 Bioinformatics Algorithms @ Peking University Coursera MOOC  
+📖 To Do List Application @ Triton Software Engineering  
+📅 Android Calendar Application  
+☁️ Weather Prediction Algorithm @ Xylem Water Challenge  
+🐇 Pokédex Discord Bot  
 
 ## 💻 Tools:
 
