@@ -1,9 +1,10 @@
 # 💫 About Me:
-I'm currently DS spec. ML/AI major at UCSD, with minors in Math and Business Economics.  
+I'm currently DS spec. ML/AI major at UCSD, with a minor in Business Economics.  
 
 I have a strong foundation in backend engineering, applied AI systems, and cross-disciplinary research. I bring a unique blend of technical rigor and creative problem-solving to fast-paced environments, having led and contributed to mission-critical projects across healthcare, AI startups, and robotics. Whether architecting backend infrastructure or developing real-world ML solutions, I thrive in roles that demand adaptability, ownership, and cross-functional collaboration. I'm deeply motivated by building impactful systems and continuously seek opportunities to bridge complex technology with meaningful user outcomes.  
 
 My current roles:  
+🌴 Project Manager and SWE Consultant @ San Diego County IT
 🏥 Software Developer @ F3 Global  
 🦴 Data Science Intern @ UCSD School of Medicine, Urtecho Lab  
 🛰️ Lead Software Engineer @ Yonder Dynamics (University Rover Competition)  
