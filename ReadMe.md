@@ -1,9 +1,12 @@
 # 💫 About Me:
-I'm currently DS spec. ML/AI major at UCSD, with a minor in Business Economics.  
+I'm currently DS spec. ML/AI major at UCSD, with a minor in Business Economics.
 
 I have a strong foundation in backend engineering, applied AI systems, and cross-disciplinary research. I bring a unique blend of technical rigor and creative problem-solving to fast-paced environments, having led and contributed to mission-critical projects across healthcare, AI startups, and robotics. Whether architecting backend infrastructure or developing real-world ML solutions, I thrive in roles that demand adaptability, ownership, and cross-functional collaboration. I'm deeply motivated by building impactful systems and continuously seek opportunities to bridge complex technology with meaningful user outcomes.  
 
+My personal website is available here: https://sweekrit-b.github.io/personal-website/
+
 My current roles:  
+🎨 Software Engineering Intern @ Adobe
 🦴 Data Science Intern @ UCSD School of Medicine, Urtecho Lab  
 🛰️ Lead Software Engineer @ Yonder Dynamics (University Rover Competition)  
 
@@ -16,7 +19,6 @@ My previous roles:
 🦁 Backend Developer Intern @ Lion Street  
 🚵 Software Developer @ UCSD Health  
 💻 AI Systems Developer @ Voicebotics AI  
-
 🧬 Bioinformatics Intern @ UCSD School of Medicine, Rana Laboratory  
 📦 Project Manager and SWE Consultant @ KlonIT AI  
 📈 Data Science Consultant @ Out of the Blue  
