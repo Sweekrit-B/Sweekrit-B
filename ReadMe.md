@@ -6,7 +6,7 @@ I have a strong foundation in backend engineering, applied AI systems, and cross
 My personal website is available here: https://sweekrit-b.github.io/personal-website/
 
 My current roles:  
-🎨 Software Engineering Intern @ Adobe
+🎨 Software Engineering Intern @ Adobe  
 🦴 Data Science Intern @ UCSD School of Medicine, Urtecho Lab  
 🛰️ Lead Software Engineer @ Yonder Dynamics (University Rover Competition)  
 
