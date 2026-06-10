@@ -30,7 +30,7 @@ My previous roles:
 🏫 Curriculum Development Intern @ TheOpenCode Foundation  
 🥋 Taekwondo Instructor @ Choi's Martial Arts  
 
-My projects:
+My projects:  
 ⛈️ Climate Projections and Storm Futures  
 🐀 Hantavirus Mortality Modeling and Prediction  
 🪫 Climate Driven Power Outage Prediction  
