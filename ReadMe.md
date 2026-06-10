@@ -8,7 +8,7 @@ My current roles:
 🛰️ Lead Software Engineer @ Yonder Dynamics (University Rover Competition)  
 
 My previous roles:  
-🌴 Project Manager and SWE Consultant @ San Diego County IT
+🌴 Project Manager and SWE Consultant @ San Diego County IT  
 🏥 Software Developer @ F3 Global  
 🏫 Software Engineering Consultant @ Kaizen Academy  
 🤖 Project Management and Firmware Engineering Consultant @ Brain Corp  
