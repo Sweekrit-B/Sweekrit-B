@@ -31,9 +31,9 @@ My previous roles:
 🥋 Taekwondo Instructor @ Choi's Martial Arts  
 
 My projects:
-⛈️ Climate Projections and Storm Futures
-🐀 Hantavirus Mortality Modeling and Prediction
-🪫 Climate Driven Power Outage Prediction
+⛈️ Climate Projections and Storm Futures  
+🐀 Hantavirus Mortality Modeling and Prediction  
+🪫 Climate Driven Power Outage Prediction  
 🦠 Epidemiology Network Simulator @ Buildspace S5  
 🩺 Medical Aid & Pill Tracking Agentic AI Web App @ CalHacks AI 2025  
 💵 Hierarchal Club Finance Tracking App @ LA Hacks 2025  
