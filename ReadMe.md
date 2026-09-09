@@ -5,12 +5,13 @@ I have a strong foundation in backend engineering, applied AI systems, and cross
 
 My personal website is available here: https://sweekrit-b.github.io/personal-website/
 
-My current roles:  
-🎨 Software Engineering Intern @ Adobe  
-🦴 Data Science Intern @ UCSD School of Medicine, Urtecho Lab  
+My current roles:   
+⚛️ Data Science & Machine Learning Researcher @ General Atomics (in collaboration with UCSD HDSI)
+🦴 Data Science & Machine Learning Researcher @ UCSD School of Medicine, Urtecho Lab  
 🛰️ Lead Software Engineer @ Yonder Dynamics (University Rover Competition)  
 
 My previous roles:  
+🎨 Software Engineering Intern @ Adobe 
 🌴 Project Manager and SWE Consultant @ San Diego County IT  
 🏥 Software Developer @ F3 Global  
 🏫 Software Engineering Consultant @ Kaizen Academy  
@@ -19,7 +20,7 @@ My previous roles:
 🦁 Backend Developer Intern @ Lion Street  
 🚵 Software Developer @ UCSD Health  
 💻 AI Systems Developer @ Voicebotics AI  
-🧬 Bioinformatics Intern @ UCSD School of Medicine, Rana Laboratory  
+🧬 Data Engineering Researcher @ UCSD School of Medicine, Rana Laboratory  
 📦 Project Manager and SWE Consultant @ KlonIT AI  
 📈 Data Science Consultant @ Out of the Blue  
 🏆 VP of Special Projects & Summer Director @ Fremont Debate Academy  
