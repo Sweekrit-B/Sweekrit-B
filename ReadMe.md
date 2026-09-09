@@ -10,7 +10,7 @@ My current roles:
 🦴 Data Science & Machine Learning Researcher @ UCSD School of Medicine, Urtecho Lab  
 🛰️ Lead Software Engineer @ Yonder Dynamics (University Rover Competition)  
 
-My previous roles:  
+My previous roles (college):  
 🎨 Software Engineering Intern @ Adobe 
 🌴 Project Manager and SWE Consultant @ San Diego County IT  
 🏥 Software Developer @ F3 Global  
@@ -23,6 +23,8 @@ My previous roles:
 🧬 Data Engineering Researcher @ UCSD School of Medicine, Rana Laboratory  
 📦 Project Manager and SWE Consultant @ KlonIT AI  
 📈 Data Science Consultant @ Out of the Blue  
+
+My previous roles (high school):
 🏆 VP of Special Projects & Summer Director @ Fremont Debate Academy  
 📜 Research Intern @ Notre Dame Keough School of Global Affairs  
 🔬 Machine Learning-Drug Discovery Project Lead @ ASDRP  
