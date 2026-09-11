@@ -11,8 +11,7 @@ My current roles:
 🛰️ Lead Software Engineer @ Yonder Dynamics (University Rover Competition)  
 
 My previous roles (college):  
-🎨 Software Engineering Intern @ Adobe 
-
+🎨 Software Engineering Intern @ Adobe  
 🌴 Project Manager and SWE Consultant @ San Diego County IT  
 🏥 Software Developer @ F3 Global  
 🏫 Software Engineering Consultant @ Kaizen Academy  
