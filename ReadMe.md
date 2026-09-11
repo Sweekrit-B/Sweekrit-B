@@ -7,11 +7,13 @@ My personal website is available here: https://sweekrit-b.github.io/personal-web
 
 My current roles:   
 ⚛️ Data Science & Machine Learning Researcher @ General Atomics (in collaboration with UCSD HDSI)
+
 🦴 Data Science & Machine Learning Researcher @ UCSD School of Medicine, Urtecho Lab  
 🛰️ Lead Software Engineer @ Yonder Dynamics (University Rover Competition)  
 
 My previous roles (college):  
 🎨 Software Engineering Intern @ Adobe 
+
 🌴 Project Manager and SWE Consultant @ San Diego County IT  
 🏥 Software Developer @ F3 Global  
 🏫 Software Engineering Consultant @ Kaizen Academy  
